@@ -33,7 +33,7 @@ Siga os passos abaixo para configurar o ambiente e executar o assistente.
 Certifique-se de ter uma API Key do Google Gemini. Você pode obtê-la no Google AI Studio.
 2. Configuração do Ambiente
 Clone o repositório:
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/HeitorDd/SISTEMA_RAG_REGULAMENTO_KART.git)
+git clone (https://github.com/HeitorDd/SISTEMA_RAG_REGULAMENTO_KART.git)
 cd SISTEMA_RAG_KART
 
 
